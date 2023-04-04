@@ -24,7 +24,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 - setup username: pm1990/Mugin1990! & 
 - how to setup language for Jenkins: https://superuser.com/questions/879392/how-force-jenkins-to-show-ui-always-in-english
-- Jenkins token: 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
+- Jenkins token:  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
 
 ## Problem with connection:
 sudo ufw disable
